@@ -14,4 +14,4 @@ clock.grid(row=2,column=2, pady=25, padx=100) # Clock grid as pading of y is 25 
 times() # Call the time function
 digi = Label(root, text = "Digital clock", font = "Times 24 bold") # As seen of clock name
 root.mainloop() # Create a variable for digital clock
-# Update 2021
+# Update 2020-2021
